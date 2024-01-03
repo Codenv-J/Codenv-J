@@ -19,18 +19,17 @@
 <br />
 <br />
 
-Hi, I'm Codenj😉, a student 👨🏻‍💻 from China 🇨🇳. I'm  always develop in Java and Web Systems🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Codenj😉, a student 👨🏻‍💻 from ShenZhen China 🇨🇳. I'm  always develop in Java and Web Systems🐍. Currently, I'm studying at the Guangdong Technical Normal University. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6).
+- 👨🏻‍💻 I’m currently studying at the Guangdong Technical Normal University.
 - 🌱 I’m currently learning Java and Web.
 - 🤔 My research interests are with Web Systems, Deep Reinforcement Learning, etc.
 - 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via ninomyemail@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
+- 📫 Please email via codenj@foxmail.com to reach me.
 
 ![Codenv-J's github stats](https://github-readme-stats.vercel.app/api?username=Codenv-J&show_icons=true&hide_border=true)
 
