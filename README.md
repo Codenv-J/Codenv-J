@@ -30,7 +30,7 @@ Hi, I'm Codenj😉, a student 👨🏻‍💻 from ShenZhen China 🇨🇳. I'm 
 - 🤔 My research interests are with Web Systems, Deep Reinforcement Learning, etc.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via codenj@foxmail.com to reach me.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codenv-J)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codenv-J&show_icons=true&hide_border=true)
 ![Codenv-J's github stats](https://github-readme-stats.vercel.app/api?username=Codenv-J&show_icons=true&hide_border=true)
 
 ⭐️ From [Codenv-J](https://github.com/Codenv-J)
