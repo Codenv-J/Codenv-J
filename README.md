@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm Codenj😉, a student 👨🏻‍💻 from ShenZhen China 🇨🇳. I'm  always develop in Java and Web Systems🐍. Currently, I'm studying at the Guangdong Technical Normal University. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Codenj😉, a engineer 👨🏻‍💻 from ShenZhen China 🇨🇳. I'm  always develop in Java and Web Systems🐍. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
