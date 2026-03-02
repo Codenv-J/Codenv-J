@@ -25,7 +25,6 @@ Hi, I'm Codenj😉, a engineer 👨🏻‍💻 from ShenZhen China 🇨🇳. I'm
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently studying at the Guangdong Technical Normal University.
 - 🌱 I’m currently learning Java and Web.
 - 🤔 My research interests are with Web Systems, Deep Reinforcement Learning, etc.
 - 💬 Ask me about anything, I would like to answer.
